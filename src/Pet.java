@@ -13,5 +13,8 @@ public class Pet {
         String petResponse = "Ну ладно!! " +aWord;
         return petResponse;
     }
+    public void go(){
+        System.out.println("Пошли гулять любименький!");
+    }
 }
 
