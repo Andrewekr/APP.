@@ -4,6 +4,6 @@ public class FishMaster {
         myFish.drive (2);
         myFish.drive(3);
         myFish.sleep();
-        myFish.say();
+        myFish.say("34234");
     }
 }
